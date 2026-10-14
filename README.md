@@ -35,6 +35,15 @@
 .`                                 `/
 ```
 
+## Галерея
+
+<p align="center">
+  <a href="screenshots/screenshot_2026-10-14_20-42-52.png"><img src="screenshots/screenshot_2026-10-14_20-42-52.png" width="49%" alt="Скриншот рабочего стола 1"></a>
+  <a href="screenshots/screenshot_2026-10-14_22-07-44.png"><img src="screenshots/screenshot_2026-10-14_22-07-44.png" width="49%" alt="Скриншот рабочего стола 2"></a>
+  <a href="screenshots/screenshot_2026-10-14_22-09-56.png"><img src="screenshots/screenshot_2026-10-14_22-09-56.png" width="49%" alt="Скриншот рабочего стола 3"></a>
+  <a href="screenshots/screenshot_2026-10-14_22-10-53.png"><img src="screenshots/screenshot_2026-10-14_22-10-53.png" width="49%" alt="Скриншот рабочего стола 4"></a>
+</p>
+
 ## Установка на свежий Arch Linux
 
 ### Требования
