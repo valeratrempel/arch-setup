@@ -9,6 +9,32 @@
 - **greetd + DankGreeter** — графический экран входа
 - **Пакеты** — базовая система, рабочий стол, приложения, оборудование и AUR
 
+## Система автора
+
+Пример вывода `fastfetch` на системе, для которой подготовлена конфигурация:
+
+```text
+                  -`                     valeratrempel@archlinux
+                 .o+`                    -----------------------
+                `ooo/                    OS: Arch Linux x86_64
+               `+oooo:                   Kernel: Linux 7.2.9-arch1-1
+              `+oooooo:                  Packages: 658 (pacman)
+             -+oooooo+:                 Shell: bash 5.3.20
+           `/:-:++oooo+:                Display (SAMSUNG): 1920x1080 in 32", 60 Hz [External]
+          `/++++/+++++++:               Window Manager: niri 26.04 (Wayland)
+         `/++++++++++++++:              Icons: Papirus-Dark [GTK2/3/4]
+        `/+++ooooooooooooo/`            Cursor: default (24px)
+       ./ooosssso++osssssso+`           Terminal: kitty 0.49.2
+      .oossssso-````/ossssss+`          Terminal Font: NimbusMonoPS-Regular (12pt)
+     -osssssso.      :ssssssso.         CPU: Intel(R) Core(TM) i3-10100 (8) @ 4.30 GHz
+    :osssssss/        osssso+++.        GPU: AMD Radeon R9 Fury Series [Discrete]
+   /ossssssss/        +ssssooo/-        Memory: 3.13 GiB / 7.67 GiB (41%)
+ `/ossssso+/:-        -:/+osssso+-      Swap: 0 B / 3.84 GiB (0%)
+`+sso+:-`                 `.-/+oso:     Disk (/): 8.07 GiB / 237.47 GiB (3%) - btrfs
+`++:.                           `-/+/   Locale: en_US.UTF-8
+.`                                 `/
+```
+
 ## Установка на свежий Arch Linux
 
 ### Требования
