@@ -12,3 +12,4 @@ wget
 networkmanager
 wpa_supplicant
 zram-generator
+less

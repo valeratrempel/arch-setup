@@ -11,12 +11,10 @@
 
 ## Установка
 
-После установки чистого Arch Linux и настройки доступа к приватному
-репозиторию:
+Репозиторий публичный. Пока скрипты проходят аудит, только клонируй проект и изучай файлы.
 
-    git clone git@github.com:OWNER/REPO.git ~/arch-setup
+    git clone https://github.com/valeratrempel/arch-setup.git ~/arch-setup
     cd ~/arch-setup
-    ./scripts/setup.sh
 
 Перед запуском необходимо проверить совместимость пакетов,
 конфигураций, файловой системы и оборудования.
