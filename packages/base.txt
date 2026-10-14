@@ -1,0 +1,14 @@
+base
+base-devel
+linux
+linux-firmware
+intel-ucode
+mkinitcpio
+sudo
+git
+nano
+vim
+wget
+networkmanager
+wpa_supplicant
+zram-generator

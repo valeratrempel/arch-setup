@@ -1,0 +1,4 @@
+telegram-desktop
+loupe
+mpv
+audacious

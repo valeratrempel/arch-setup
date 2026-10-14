@@ -1,0 +1,9 @@
+intel-media-driver
+libva-intel-driver
+libvpl
+vpl-gpu-rt
+vulkan-intel
+vulkan-radeon
+smartmontools
+btrfs-progs
+efibootmgr
